@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @programmednerd 🤓
-- 👀 I’m interested in Computer science and Tech👾
+- 👀 I’m interested in Computer science, FinTech and Data Science👾
 - 🌱 Python Developer in the making🐍
 - 💞️ I’m looking to contribute and work on different Python projects💡
 - 📫 How to reach me: Instagram🎞️ (programmednerd)
