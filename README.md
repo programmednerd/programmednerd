@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science and Tech👾
 - 🌱 Python Developer in the making🐍
 - 💞️ I’m looking to contribute and work on different Python projects💡
-- - 📫 How to reach me: Instagram🎞️ (programmednerd)
+- 📫 How to reach me: Instagram🎞️ (programmednerd)
 - ⚡ Facts: I love coffee, cats & coding🥰☕️
   
 <!---
