@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @programmednerd 🤓
+- 👋 Hi, I’m @programmednerd 🤓 or Elitsa (whatever you prefer😅)
 - 👀 I’m interested in Computer science, FinTech and Data Science👾
 - 🐍 Python Developer in the making🔜
 - 💞️ I’m looking to contribute and work on different Python projects💡
